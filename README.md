@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing software that makes a difference.
 - 🌱 I’m currently doing a comouting software degree with the OU.
 - 💞️ I’m looking to collaborate!
-- 📫 How to reach me at **https://www.linkedin.com/in/matt-coles/**
+- 📫 How to reach me: **https://www.linkedin.com/in/matt-coles/**
 
 <!---
 mattycoles/mattycoles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
